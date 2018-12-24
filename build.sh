@@ -1,4 +1,5 @@
 #!/bin/sh
+git merge develop
 ng build --base-href /geosearch/
 cp dist/geosearch/* ./
 git add .
