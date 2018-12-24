@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fe86a54-c6f0-48e5-8821-cb8c09663543" name="Default Changelist" comment="" />
+    <list default="true" id="9fe86a54-c6f0-48e5-8821-cb8c09663543" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -50,32 +52,6 @@
               <item name="geosearch" type="b2602c69:ProjectViewProjectNode" />
               <item name="geosearch" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="geosearch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geosearch" type="462c0819:PsiDirectoryNode" />
-              <item name="geosearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geosearch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geosearch" type="462c0819:PsiDirectoryNode" />
-              <item name="geosearch" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geosearch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geosearch" type="462c0819:PsiDirectoryNode" />
-              <item name="geosearch" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geosearch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geosearch" type="462c0819:PsiDirectoryNode" />
-              <item name="geosearch" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="coords" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -110,12 +86,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545520749059</updated>
-      <workItem from="1545520752356" duration="8829000" />
+      <workItem from="1545520752356" duration="8874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8829000" />
+    <option name="totallyTimeSpent" value="8874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
